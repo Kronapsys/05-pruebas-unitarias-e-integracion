@@ -35,7 +35,7 @@ describe('Pruebas en funciones de Héroes', () => {
 
     });
 
-    // length = 2 (toBe)
+    // length del array = 2 (toBe)
     test('Debe devolver un array con los héroes de Marvel', () => {
 
         const owner = 'Marvel';
